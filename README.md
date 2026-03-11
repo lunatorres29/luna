@@ -43,5 +43,4 @@ Resultado
 
 El resultado final es un archivo de Excel que reproduce visualmente la imagen original utilizando celdas coloreadas. De esta forma se puede observar cómo los píxeles de una imagen pueden transformarse en datos organizados dentro de una hoja de cálculo.
 
-👩‍💻 Autora:
-Luna Torres Vargas
+
