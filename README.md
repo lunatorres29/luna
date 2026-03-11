@@ -16,17 +16,11 @@ De esta manera, se demuestra cómo una imagen puede interpretarse como una estru
 Proceso del programa ⚙️
 
 El notebook realiza el procesamiento de la imagen en diferentes etapas:
-
 Conexión con Google Drive para acceder a los archivos.
-
 Carga de la imagen utilizando librerías de Python.
-
 Lectura de los valores de color de cada píxel de la imagen.
-
 Organización de los datos en una matriz de valores RGB.
-
 Creación de un archivo de Excel.
-
 Representación visual de la imagen coloreando cada celda según su valor RGB.
 
 Tecnologías utilizadas 🧰
@@ -34,13 +28,9 @@ Tecnologías utilizadas 🧰
 Para el desarrollo del proyecto se utilizaron las siguientes herramientas:
 
 Python
-
 Google Colab
-
 Pillow (PIL) para el procesamiento de imágenes
-
 OpenPyXL para generar y editar archivos de Excel
-
 Matplotlib para visualizar la imagen
 
 Estructura del proyecto 📂
@@ -48,9 +38,7 @@ Estructura del proyecto 📂
 El repositorio contiene los siguientes archivos principales:
 
 Pixel_Programing.ipynb → Notebook donde se desarrolla todo el procesamiento de la imagen.
-
 imagen.jpg → Imagen utilizada como ejemplo para el análisis de píxeles.
-
 resultado.xlsx → Archivo generado con la representación de la imagen en Excel.
 
 Cómo ejecutar el proyecto ▶️
@@ -58,13 +46,9 @@ Cómo ejecutar el proyecto ▶️
 Para ejecutar el proyecto se deben seguir los siguientes pasos:
 
 Abrir el notebook en Google Colab.
-
 Conectar la cuenta de Google Drive.
-
 Cargar o seleccionar la imagen que se desea procesar.
-
 Ejecutar las celdas del notebook en orden.
-
 El programa generará un archivo de Excel donde la imagen se representa mediante celdas coloreadas.
 
 Resultado 📊
